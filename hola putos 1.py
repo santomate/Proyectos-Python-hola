@@ -7,7 +7,3 @@ def suma():
     suma = a+b 
     return suma
 print(suma())
-
-
-        
-
